@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zafir-perfumaria.vercel.app/sitemap.xml
